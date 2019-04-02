@@ -1,0 +1,53 @@
+body{
+	height: auto;
+	width: 100%;
+	position: relative;
+}
+
+
+#Yo{ 
+    display: center;
+	margin-top: 5%;
+	width:50%; 
+	height:50%;
+	border:0.5rem solid #7ee0ff;
+	border-radius: 50%
+}
+
+
+h1 { 
+font-family: 'Roboto Slab', serif;
+font-size: 5vw;
+position: relative;
+top: -15px;
+text-align: center;
+}
+
+h2 {
+font-family: 'Roboto Slab', serif;
+position: relative;
+top: -55px;
+text-align: center;
+}
+
+#name { 
+font-size: 5vw;	
+color: white;
+background-color: #282828;
+ }
+
+ h3 {
+ 	font-size: 1.5rem;
+ 	color: #1a3b5b;
+ 	text-align: center;
+ 	font-family: 'Roboto Slab', serif;
+ 	position: relative;
+ }
+
+#descripcion{
+	border-style: solid;
+	border-color: #ffaa00;
+	background-color: #ffaa00;
+	font-family: 'Roboto Condensed', sans-serif;
+	font-size: 1rem;
+	text-align: center;
